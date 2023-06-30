@@ -1,0 +1,17 @@
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\bin\Debug\net7.0-windows\Conversor de unidades.exe
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\bin\Debug\net7.0-windows\Conversor de unidades.deps.json
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\bin\Debug\net7.0-windows\Conversor de unidades.runtimeconfig.json
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\bin\Debug\net7.0-windows\Conversor de unidades.dll
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\bin\Debug\net7.0-windows\Conversor de unidades.pdb
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\obj\Debug\net7.0-windows\Conversor de unidades.csproj.AssemblyReference.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\obj\Debug\net7.0-windows\Conversor_de_unidades.Form1.resources
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\obj\Debug\net7.0-windows\Conversor de unidades.csproj.GenerateResource.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\obj\Debug\net7.0-windows\Conversor de unidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\obj\Debug\net7.0-windows\Conversor de unidades.AssemblyInfoInputs.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\obj\Debug\net7.0-windows\Conversor de unidades.AssemblyInfo.cs
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\obj\Debug\net7.0-windows\Conversor de unidades.csproj.CoreCompileInputs.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\obj\Debug\net7.0-windows\Conversor de unidades.dll
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\obj\Debug\net7.0-windows\refint\Conversor de unidades.dll
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\obj\Debug\net7.0-windows\Conversor de unidades.pdb
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\obj\Debug\net7.0-windows\Conversor de unidades.genruntimeconfig.cache
+C:\Users\Ferchbo\source\repos\CCarpeta\Conversor de unidades\Conversor de unidades\obj\Debug\net7.0-windows\ref\Conversor de unidades.dll
